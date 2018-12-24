@@ -1,5 +1,6 @@
 #!/bin/sh
-source "git-stats.widget/config.sh"
+
+source "GitStats/config.sh"
 
 cd "$repoPath"
 
