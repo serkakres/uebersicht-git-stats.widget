@@ -27,7 +27,7 @@ style: """
     src url(GitStats/files/AdelleLight.otf)
 
   left 0
-  top 0
+  top 100px
   padding 15px
   margin 0
   background rgba(#000, 0.5)
