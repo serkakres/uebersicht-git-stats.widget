@@ -27,7 +27,7 @@ style: """
     src url(GitStats/files/AdelleLight.otf)
 
   left 0
-  top 100px
+  top 60px
   padding 15px
   margin 0
   background rgba(#000, 0.5)
@@ -35,7 +35,7 @@ style: """
 
   font-family AdelleLight
   font-size 1em
-  color #52d089
+  color #999
 
   div
     display flex
@@ -49,7 +49,7 @@ style: """
   titleBold
     font-family AdelleBold
     font-size 3em
-    color #dc4d3c
+    color #ccc
 
   titleLight
     font-family AdelleLight
